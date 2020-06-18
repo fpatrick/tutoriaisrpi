@@ -13,7 +13,7 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 
 3. Facilidade de gerenciar. Voce pode pausar, excluir, restaurar muito facilmente qualquer servico dentro de containers de docker.
 
-### Instalando docker e docker-compose
+### Instalando docker
 
 **Instalar**
 ```
@@ -30,7 +30,11 @@ sudo usermod -aG docker pi
 docker run hello-world
 ```
 
-###Instalando docker-compose
+### O que e docker-compose?
+
+Uma ferramenta para criar e rodar varios containers do docker de uma vez de forma mais facil. Em um arquivo .yaml voce define todos os parametros dos containers tornando muito facil atualizar todos de uma vez, restaurar, gerenciar.
+
+### Instalando docker-compose
 
 **Instalar as dependencias**
 ```
