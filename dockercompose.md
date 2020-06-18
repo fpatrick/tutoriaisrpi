@@ -13,7 +13,7 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 
 ### Instalando docker
 
-**Instalando"*
+**Instalando**
 ```
 curl -sSL https://get.docker.com | sh
 ```
