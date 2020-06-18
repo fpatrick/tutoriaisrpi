@@ -27,9 +27,11 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 ###Instalando docker-compose
 
 **Instalar as dependencias**
-```sudo apt-get install -y libffi-dev libssl-dev```
-```sudo apt-get install -y python3 python3-pip```
-```sudo apt-get remove python-configparser```
+```
+sudo apt-get install -y libffi-dev libssl-dev
+sudo apt-get install -y python3 python3-pip
+sudo apt-get remove python-configparser
+```
 
 **Instalar docker compose**
 ```sudo pip3 install docker-compose```
