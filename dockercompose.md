@@ -16,13 +16,19 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 ###Instalando docker
 
 **Instalar**
-```curl -sSL https://get.docker.com | sh```
+```
+curl -sSL https://get.docker.com | sh
+```
 
 **(Opcional) Dar permissao ao padrao, para usar docker sem sudo**
-```sudo usermod -aG docker pi```
+```
+sudo usermod -aG docker pi
+```
 
 **Verficar se funciona**
-```docker run hello-world```
+```
+docker run hello-world
+```
 
 ###Instalando docker-compose
 
@@ -34,4 +40,6 @@ sudo apt-get remove python-configparser
 ```
 
 **Instalar docker compose**
-```sudo pip3 install docker-compose```
+```
+sudo pip3 install docker-compose
+```
