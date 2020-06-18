@@ -13,14 +13,14 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 
 3. Facilidade de gerenciar. Voce pode pausar, excluir, restaurar muito facilmente qualquer servico dentro de containers de docker.
 
-### Instalando docker e compose
+### Instalando docker e docker-compose
 
 **Instalar**
 ```
 curl -sSL https://get.docker.com | sh
 ```
 
-**(Opcional) Dar permissao ao padrao, para usar docker sem sudo**
+**(Opcional) Dar permissao ao usuario padrao, para usar docker sem sudo**
 ```
 sudo usermod -aG docker pi
 ```
