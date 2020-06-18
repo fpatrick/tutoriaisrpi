@@ -2,6 +2,17 @@ theme: jekyll-theme-cayman
 title: "Tutoriais para RPI"
 description: "teste"
 
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.html
+
+- title: Configuration
+  url: configuration.html
+
+- title: Deployment
+  url: deployment.html
 
 navbar-links:
   About Me: "aboutme"
