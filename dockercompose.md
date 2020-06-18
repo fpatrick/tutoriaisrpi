@@ -1,9 +1,6 @@
 # Docker e docker compose
 CLIQUE [AQUI](https://fpatrick.github.io/tutoriaisrpi/) PARA VOLTAR AO INICIO.
 
-Docker: [Documentacao oficial docker](https://docs.docker.com/)
-Compose: [Documentacao oficial docker-compose](https://docs.docker.com/compose/)
-
 ### O que e docker
 Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtualbox ou outro servico semelhante. Basicamente o docker e a mesma coisa, mas virtualizando aplicativos ao inves de sistemas operacionais.
 
@@ -58,3 +55,6 @@ sudo apt-get remove python-configparser
 ```
 sudo pip3 install docker-compose
 ```
+
+Docker: [Documentacao oficial docker](https://docs.docker.com/)
+Compose: [Documentacao oficial docker-compose](https://docs.docker.com/compose/)
