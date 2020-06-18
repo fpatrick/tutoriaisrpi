@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
 title: "Tutoriais para RPI"
 description: "teste"
+
+
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
