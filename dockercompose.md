@@ -13,17 +13,17 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 
 ### Instalando docker
 
-**Instalar**
+**Instalando"*
 ```
 curl -sSL https://get.docker.com | sh
 ```
 
-**(Opcional) Dar permissao ao usuario padrao, para usar docker sem sudo**
+**(Opcional) Dando permissao ao usuario padrao, para usar docker sem sudo**
 ```
 sudo usermod -aG docker pi
 ```
 
-**Verficar se funciona**
+**Verficando se funciona**
 ```
 docker run hello-world
 ```
@@ -31,7 +31,7 @@ docker run hello-world
 
 O portainer e o melhor servico para visualizar e gerenciar seus containers pelo navegador. Basta instalar e acessar.
 
-**Instalar portainer**
+**Instalando portainer**
 ```
 docker volume create portainer_data
 docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart always -v \\.\pipe\docker_engine:\\.\pipe\docker_engine -v portainer_data:C:\data portainer/portainer
@@ -44,17 +44,20 @@ Uma ferramenta para criar e rodar varios containers do docker de uma vez de form
 
 ### Instalando docker-compose
 
-**Instalar as dependencias**
+**Instalando as dependencias**
 ```
 sudo apt-get install -y libffi-dev libssl-dev
 sudo apt-get install -y python3 python3-pip
 sudo apt-get remove python-configparser
 ```
 
-**Instalar docker compose**
+**Instalando docker compose**
 ```
 sudo pip3 install docker-compose
 ```
+
+
+---
 
 Docker: [Documentacao oficial docker](https://docs.docker.com/)
 Compose: [Documentacao oficial docker-compose](https://docs.docker.com/compose/)
