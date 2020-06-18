@@ -13,7 +13,7 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 
 3. Facilidade de gerenciar. Voce pode pausar, excluir, restaurar muito facilmente qualquer servico dentro de containers de docker.
 
-### Instalando docker
+### Instalando docker e compose
 
 **Instalar**
 ```
