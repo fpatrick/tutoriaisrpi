@@ -11,7 +11,7 @@ O principal mantenedor de containers para rpi e o linuxserver. https://tools.lin
 - [Qbittorent (Download de torrents)](https://hub.docker.com/r/linuxserver/qbittorrent)
 - [Sonarr (Baixar series automaticamente)](https://hub.docker.com/r/linuxserver/sonarr)
 - [Radarr (Baixar filmes automaticamente)](https://hub.docker.com/r/linuxserver/radarr)
-- [Jackett (Alimentar sonarr/radarr com os sites de torrent)](https://hub.docker.com/r/linuxserver/jackett)
+- [Jackett (Alimentar sonarr/radarr com os sites/trackers de torrent)](https://hub.docker.com/r/linuxserver/jackett)
 
 ## Muito recomendado
 
