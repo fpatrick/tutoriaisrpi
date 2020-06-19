@@ -17,7 +17,7 @@ O principal mantenedor de containers para rpi e o linuxserver. https://tools.lin
 
 - [Emby (Sistema de midia)](https://hub.docker.com/r/linuxserver/emby)
 - [Home assistant (Controlar tudo smart da casa)](https://hub.docker.com/r/homeassistant/raspberrypi4-homeassistant) (ou https://hub.docker.com/r/homeassistant/home-assistant)
-- [Bazarr (Baixar legendas sozinho)](https://hub.docker.com/r/linuxserver/bazarr)
+- [Bazarr (Baixar legendas automaticamente)](https://hub.docker.com/r/linuxserver/bazarr)
 - [Deluge (Download de torrents)](https://hub.docker.com/r/linuxserver/deluge)
 - [Organizr (Acessar facil todos servicos instalados)](https://hub.docker.com/r/organizrtools/organizr-v2/)
 - [Duplicati (Backup de arquivos)](https://hub.docker.com/r/linuxserver/duplicati)
