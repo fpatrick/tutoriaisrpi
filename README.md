@@ -8,6 +8,7 @@ Indice:
 1. (Em construcao). [Sistemas e instalacao](https://fpatrick.github.io/tutoriaisrpi/sistemas)
 2. (Em construcao). [Ajustes apos instalacao](https://fpatrick.github.io/tutoriaisrpi/sistemabase)
 3. [Docker e compose](https://fpatrick.github.io/tutoriaisrpi/dockercompose)
+4. [Servicos](https://fpatrick.github.io/tutoriaisrpi/containers)
 
 ## Atencao: Ainda sendo construido, qualquer ajuda e bem-vinda
 
