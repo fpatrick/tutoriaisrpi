@@ -25,7 +25,7 @@ O principal mantenedor de containers para rpi e o linuxserver. https://tools.lin
 ## Recomendado para usos especificos
 
 - [NZBGet (Download da usenet)](https://hub.docker.com/r/linuxserver/nzbget)
-- [Tautuli (Estatisticas e notificacoes do plex)] (https://hub.docker.com/r/linuxserver/tautulli)
+- [Tautuli (Estatisticas e notificacoes do plex)](https://hub.docker.com/r/linuxserver/tautulli)
 - [Hydra2 (Estatisticas de sites de download e gerenciamento das fontes para sonarr/radarr)](https://hub.docker.com/r/linuxserver/hydra2)
 - [Node-red (Fazer automatizacoes visualmente, usar em conjunto com home assistant)](https://hub.docker.com/r/nodered/node-red)
 - [Duckdns (Manter endereco do duckdns para acesso remoto)](https://hub.docker.com/r/linuxserver/duckdns)
