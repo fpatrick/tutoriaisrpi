@@ -18,14 +18,14 @@ Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtua
 curl -sSL https://get.docker.com | sh
 ```
 
-**(Opcional) Dando permissao ao usuario padrao, para usar docker sem sudo**
+**(Opcional, requer reiniciar) Dando permissao ao usuario padrao, para usar docker sem sudo**
 ```
 sudo usermod -aG docker pi
 ```
 
 **Verficando se funciona**
 ```
-docker run hello-world
+sudo docker run hello-world
 ```
 ### Servico para ver e gerenciar os containers pelo navegador
 
