@@ -6,7 +6,7 @@ Para entrar no grupo do telegram [CLIQUE AQUI](https://t.me/joinchat/BRHRihsOVdf
 
 Indice:
 1. (Em construcao). [Sistemas e instalacao](https://fpatrick.github.io/tutoriaisrpi/sistemas)
-2. (Em construcao). [Ajustes apos instalacao](https://fpatrick.github.io/tutoriaisrpi/sistemabase)
+2. [Ajustes apos instalacao](https://fpatrick.github.io/tutoriaisrpi/sistemabase)
 3. [Docker e compose](https://fpatrick.github.io/tutoriaisrpi/dockercompose)
 4. [Servicos](https://fpatrick.github.io/tutoriaisrpi/containers)
 
