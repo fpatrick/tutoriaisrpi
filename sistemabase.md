@@ -13,10 +13,10 @@ Reinicie e execute o seguinte codigo para confirmar que swap agora esta zerado:
 ```
 free -m
 ```
-### Fazer montagem do HD Externo
+## Fazer montagem do HD Externo
 Recomendo seguir a documentacao oficial que e muito detalhada caso seu hd esteja formatado em ext4, ntfs, etc. Nao esqueca de fazer a parte para montar automaticamente apos reboot. https://www.raspberrypi.org/documentation/configuration/external-storage.md
 
-### Montar SMB
+## Montar SMB
 Instala o SMB
 ```
 sudo apt-get install samba samba-common-bin
@@ -49,13 +49,13 @@ sudo systemctl restart smbd
 ```
 Voce pode acessar abrindo no explorador de arquivo do windows o endereco **\\ip.do.seu.raspberry\raspsmb** (ou nome que voce deu na primeira linha da configuracao)
 
-mount usb
+## Usar todo espaco do cartao SD
+Por padrao o raspbian so usa no sd o espaco necessario para o sistema, necessitando dar os seguintes comandos para que fique disponivel ao sistema todo o SD.
+Abra as configuracoes do raspbian
+```
+sudo raspi-config
+```
+Va em **update** (ultima opcao) e execute para garantir que esta na ultima versao.
+Va em **expand_rootfs** (segunda opcao) e execute para liberar todo o espaco.
+Por fim, selecione **finish** e aceite reiniciar caso seja oferecido (ou de o comando sudo reboot).
 
-
-fazer smb
-
-
-desativar memoria swap
-sudo systemctl disable dphys-swapfile.service
-free -m
-padrao 100 mb
