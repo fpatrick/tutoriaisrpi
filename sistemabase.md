@@ -23,7 +23,7 @@ Instala o SMB
 ```
 sudo apt-get install samba samba-common-bin
 ```
-Cria a pasta que deseja compartilhar no SMB, exemplo:
+Cria a pasta que deseja compartilhar no SMB(ou nao, caso queira utilizar que ja existe), exemplo:
 ```
 mkdir /compartilhado
 ```
