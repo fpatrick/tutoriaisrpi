@@ -9,7 +9,7 @@ Para desativar execute o codigo:
 ```
 sudo systemctl disable dphys-swapfile.service
 ```
-Reinicie e execute o seguinte codigo para confirmar que swap agora e 0:
+Reinicie e execute o seguinte codigo para confirmar que swap agora esta zerado:
 ```
 free -m
 ```
@@ -47,6 +47,7 @@ Por fim reinicie o servico:
 ```
 sudo systemctl restart smbd
 ```
+Voce pode acessar abrindo no explorador de arquivo do windows o endereco **\\ip.do.seu.raspberry\raspsmb** (ou nome que voce deu na primeira linha da configuracao)
 
 mount usb
 
