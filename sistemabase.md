@@ -1,5 +1,7 @@
 [CLIQUE AQUI](https://fpatrick.github.io/tutoriaisrpi/) PARA VOLTAR AO INICIO.
 
+Atualizado em [06/07/2020]
+
 # Ajustes apos instalacao
 Guia de procedimentos que podem ser uteis apos instalacao limpa do sistema. (Testado no Raspberry OS lite).
 
