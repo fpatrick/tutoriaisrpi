@@ -1,6 +1,8 @@
 # Servicos recomendados
 [CLIQUE AQUI](https://fpatrick.github.io/tutoriaisrpi/) PARA VOLTAR AO INICIO.
 
+Atualizado em [06/07/2020]
+
 O principal mantenedor de containers para rpi e o linuxserver. https://tools.linuxserver.io/dockers
 
 ## Essencial para todos RPI:
