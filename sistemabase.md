@@ -49,7 +49,7 @@ Por fim reinicie o servico:
 ```
 sudo systemctl restart smbd
 ```
-Voce pode acessar abrindo no explorador de arquivo do windows o endereco **\\ip.do.seu.raspberry\raspsmb** (ou nome que voce deu na primeira linha da configuracao)
+Voce pode acessar abrindo no explorador de arquivo do windows o endereco ** \\ip.do.seu.raspberry\raspsmb **(ou nome que voce deu na primeira linha da configuracao)
 
 ## Usar todo espaco do cartao SD
 Por padrao o raspbian so usa no sd o espaco necessario para o sistema, necessitando dar os seguintes comandos para que fique disponivel ao sistema todo o SD.
