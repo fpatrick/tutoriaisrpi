@@ -1,7 +1,7 @@
 [CLIQUE AQUI](https://fpatrick.github.io/tutoriaisrpi/) PARA VOLTAR AO INICIO.
 
 # Ajustes apos instalacao
-Guia de procedimentos que podem ser uteis apos instalacao limpa do sistema. (Testado no Raspbian OS lite).
+Guia de procedimentos que podem ser uteis apos instalacao limpa do sistema. (Testado no Raspberry OS lite).
 
 ## Desativar swap
 Extremamente recomendado, especialmente para quem usa cartao SD. Por padrao o raspbian os vem com 100 MB de memoria swap ativado. Caso voce esteja utilizando cartao SD, SSD ou tenha um raspberry com no minimo 4GB de ram, e recomendado que o swap deja desativado. Por que? Com 4 GB de ram voce difilmente ira precisar do swap, caso esteja utilizando SD ou SSD e ainda pior, pois ele encurta a vida util refazendo escritas. 
