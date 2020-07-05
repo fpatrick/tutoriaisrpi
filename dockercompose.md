@@ -1,6 +1,8 @@
 # Docker e docker compose
 [CLIQUE AQUI](https://fpatrick.github.io/tutoriaisrpi/) PARA VOLTAR AO INICIO.
 
+Atualizado em [06/07/2020]
+
 ### O que e docker
 Todos conhecemos a ideia de virtualizar um sistema operacional atraves do virtualbox ou outro servico semelhante. Basicamente o docker e a mesma coisa, mas virtualizando aplicativos ao inves de sistemas operacionais.
 
