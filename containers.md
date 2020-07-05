@@ -6,7 +6,7 @@ O principal mantenedor de containers para rpi e o linuxserver. https://tools.lin
 ## Essencial para todos RPI:
 
 - [Portainer (Visualizar e gerenciar containers docker)](https://www.portainer.io/installation/)
-- [Pihole (Bloquear ads na rede)](https://hub.docker.com/r/pihole/pihole/)
+- [Pihole (Bloquear propaganda em todos dispotivios da rede)](https://hub.docker.com/r/pihole/pihole/)
 - [Plex (Sistema de midia)](https://hub.docker.com/r/linuxserver/plex/)
 - [Qbittorent (Download de torrents)](https://hub.docker.com/r/linuxserver/qbittorrent)
 - [Sonarr (Baixar series automaticamente)](https://hub.docker.com/r/linuxserver/sonarr)
@@ -14,13 +14,13 @@ O principal mantenedor de containers para rpi e o linuxserver. https://tools.lin
 - [Jackett (Alimentar sonarr/radarr com os sites/trackers de torrent)](https://hub.docker.com/r/linuxserver/jackett)
 
 ## Muito recomendado
-
-- [Emby (Sistema de midia)](https://hub.docker.com/r/linuxserver/emby)
+- [Emby (Alternativa ao plex, plugins e mais compatibilidade)](https://hub.docker.com/r/linuxserver/emby)
 - [Home assistant (Controlar tudo smart da casa)](https://hub.docker.com/r/homeassistant/raspberrypi4-homeassistant) (ou https://hub.docker.com/r/homeassistant/home-assistant)
 - [Bazarr (Baixar legendas automaticamente)](https://hub.docker.com/r/linuxserver/bazarr)
 - [Deluge (Download de torrents)](https://hub.docker.com/r/linuxserver/deluge)
 - [Organizr (Acessar facil todos servicos instalados)](https://hub.docker.com/r/organizrtools/organizr-v2/)
 - [Duplicati (Backup de arquivos)](https://hub.docker.com/r/linuxserver/duplicati)
+- [Adguard Home (Alternativa ao pihole, facil servidor dhcp pelo docker)](https://hub.docker.com/r/adguard/adguardhome)
 
 ## Recomendado para usos especificos
 
